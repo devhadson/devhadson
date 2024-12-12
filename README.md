@@ -1,5 +1,4 @@
-## Hey There! 👋
-- 😀 Hi, I’m **Hadson Paredes**
+## 😀 Hi, I’m **Hadson Paredes** 👋
 - 👀 Software Architect, Software Developer, IA Solutions, Cloud Computing and Data Science.
 - 🌱 I am currently specializing in IA Solutions and Data Science
 - 💞️ I’m looking to collaborate on Software Design and Developer, IA and Data Science
