@@ -2,7 +2,6 @@
 - 👀 Software Architect, Software Developer, IA Solutions, Cloud Computing and Data Science.
 - 🌱 I am currently specializing in IA Solutions and Data Science
 - 💞️ I’m looking to collaborate on Software Design and Developer, IA and Data Science
-- ⚡ Fun fact: My personal website is [www.hadsonpar.com](https://hadsonpar.com/). I like write in free time, visiting my [blog](http://blog.hadsonpar.com/)
 
 <hr>
 <h3 align="center">Development tools for Website ⚡</h3>
