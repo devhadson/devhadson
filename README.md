@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## 👋 Hi, I’m Hadson Paredes 😀
+- 👀 I’m interested in Software Architecture, Software Design and Developer, Intelligence Artificial, Cloud Computing and Data Science
+- 🌱 I’m currently learning  Intelligence Artificial, Cloud Computing and Data Science
+- 💞️ I’m looking to collaborate on Software Design and Developer, Intelligence Artificial and Data Science
+- 📫 How to reach me: hadson1@gmail.com
+- 😄 Pronouns: Hadson
+- ⚡ Fun fact: My personal website is [www.hadsonpar.com](https://hadsonpar.com/). I like write in free time, visiting my [blog](http://blog.hadsonpar.com/)
+- 
 <!--
 **devhadson/devhadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
