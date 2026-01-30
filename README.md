@@ -1,4 +1,9 @@
-## 😀 Hi, I’m **Hadson Paredes** 👋
+
+## 🚀 Acerca de
+### 😀 Hola, Soy Hadson Paredes 👋
+
+Mis inicios fueron de *programador full stack* seguidamente como *analista programador, analista de sistemas, líder técnico* y actualmente soy *Arquitecto de Soluciones*, encargado de liderar el diseño e implementación de soluciones tecnológicas basado en *Cloud Computing*, *IA*, *IAGen* y *Data Science*. Además, en mis tiempos libres sigo programado aplicaciones relacionados a soluciones *Cloud*, *Web*, *IA* y *Data Science*.
+
 - ✨ Arquitecto de Soluciones, Desarrollador de Software, Soluciones IA, Cloud Computing y Data Science.
 - ✨ Solutions Architect, Software Developer, IA Solutions, Cloud Computing and Data Science.
 <!--
@@ -23,26 +28,16 @@
   </a>
 </p>
 
+<hr>
 
-<!--
+[**![App Screenshot](/social-icons/medium/currentColor/github.svg "Optional title")**](https://github.com/devhadson/) GitHub
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=devhadson&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhadson&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
-**devhadson/devhadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**![App Screenshot](/social-icons/medium/currentColor/facebook.svg "Optional title")**](https://www.facebook.com/hadsonpar/) Facebook
 
-Here are some ideas to get you started:
+[**![App Screenshot](/social-icons/medium/currentColor/linkedin.svg "linkedin")**](https://www.linkedin.com/in/hadson-paredes/) Linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> **Lifelong learner**
+
+![App Screenshot](/certified-icons/certiprof/lifelong-learning.png "Optional title")
