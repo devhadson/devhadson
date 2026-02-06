@@ -1,10 +1,10 @@
-# readme-social-icons
+# Iconos disponible para Redes Sociales
 
 Estos iconos se pueden usar como enlaces en los archivos README, sin embargo, también puedes descargarlas y usarlas libremente.
 
-Para el uso de los iconos en linea debes considerar el siguiente link y estructura:
+Para el uso de los iconos en línea debes considerar el siguiente link y estructura:
 ```
-https://project.hadsonpar.com/template/social-icons/size/example_folder/[nombre].svg
+https://github.com/devhadson/devhadson/tree/main/social-icons/size/example_folder/[nombre].svg
 ```
 
 En caso clones el proyecto y deseas cargae los iconos desde tu mismo proyecto debes considerar la siguiente estructura:

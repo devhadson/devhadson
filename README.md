@@ -8,7 +8,7 @@ Mis inicios fueron de *programador full stack* seguidamente como *analista progr
 - ✨ Solutions Architect, Software Developer, IA Solutions, Cloud Computing and Data Science.
 
 <hr>
-<h3 align="center">Algunas herramientas que uso para desarrollo de soluciones web e inteligencia artificial⚡</h3>
+<h3 align="center">Principales herramientas para desarrollo de soluciones web e inteligencia artificial⚡</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,11 +18,13 @@ Mis inicios fueron de *programador full stack* seguidamente como *analista progr
 
 
 <hr>
-<h4 align="center"> Encuentra información publicaciones semanales en mis redes sociales</h4>
+<h4 align="center"> Publicaciones en mis redes sociales y reposotorio GitHub</h4>
 
 [**![App Screenshot](/social-icons/small/currentColor/github.svg "Optional title")**](https://github.com/devhadson/) GitHub [**![App Screenshot](/social-icons/small/currentColor/facebook.svg "Optional title")**](https://www.facebook.com/hadsonpar/) Facebook [**![App Screenshot](/social-icons/small/currentColor/linkedin.svg "linkedin")**](https://www.linkedin.com/in/hadson-paredes/) Linkedin
 
 > **Recursos desactualizado en mi anterior report github de [hadsonpar](https://github.com/Hadsonpar)**
+
+<hr>
 
 Motivado en adquirir nuevos conocimientos y habilidades de forma continua...
 
