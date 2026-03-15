@@ -2,7 +2,7 @@
 ## 🚀 Acerca de
 ### 😀 Hola, Soy Hadson Paredes 👋
 
-Mis inicios fueron de *programador full stack* seguidamente como *analista programador, analista de sistemas, líder técnico* y actualmente soy *Arquitecto de Soluciones*, encargado de liderar el diseño e implementación de soluciones tecnológicas basado en *Cloud Computing*, *IA*, *IAGen* y *Data Science*. Además, en mis tiempos libres me gusta crear soluciones relacionado de *Transformación Digital*.
+Mis inicios fueron de *programador full stack* seguidamente como *analista programador, analista de sistemas, líder técnico* y actualmente soy *Arquitecto de Soluciones*, encargado de liderar el diseño e implementación de soluciones tecnológicas basado en *Cloud Computing*, *IA*, *IAGen* y *Data Science*. Además, en mis tiempos libres me gusta crear soluciones relacionado a *Transformación Digital*.
 
 - ✨ Arquitecto de Soluciones, Desarrollador de Software, Soluciones IA, Cloud Computing y Data Science.
 - ✨ Solutions Architect, Software Developer, IA Solutions, Cloud Computing and Data Science.
